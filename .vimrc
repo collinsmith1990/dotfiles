@@ -24,7 +24,6 @@ call minpac#add('honza/vim-snippets')
 call minpac#add('tpope/vim-surround')
 call minpac#add('tpope/vim-unimpaired')
 call minpac#add('Valloric/YouCompleteMe')
-call minpac#add('altercation/vim-colors-solarized')
 "}}}
 "Global settings"{{{
   "Gets rid of auto commenting
