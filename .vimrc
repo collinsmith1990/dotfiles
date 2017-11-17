@@ -52,12 +52,9 @@ call minpac#add('altercation/vim-colors-solarized')
   set softtabstop=2
   set foldmethod=marker"}}}
 "ColorScheme settings"{{{
-  "set t_co=256
   set termguicolors
   colorscheme molokai
   set background=dark
-  "let g:solarized_termcolors=256
-  "colorscheme solarized
   "}}}
 "Ultisnips"{{{
   let g:UltiSnipsExpandTrigger = '<C-j>'
