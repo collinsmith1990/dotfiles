@@ -25,28 +25,6 @@ call minpac#add('tpope/vim-surround')
 call minpac#add('tpope/vim-unimpaired')
 call minpac#add('Valloric/YouCompleteMe')
 call minpac#add('altercation/vim-colors-solarized')
-"set rtp+=~/.vim/bundle/vundle/
-"call vundle#begin()
-  "Plugin 'gmarik/Vundle.vim'
-  "Plugin 'scrooloose/nerdtree'
-  "Plugin 'ctrlpvim/ctrlp.vim'
-  "Plugin 'tpope/vim-surround'
-  "Plugin 'bling/vim-airline'
-  "Plugin 'scrooloose/syntastic'
-  "Plugin 'tomasr/molokai'
-  ""Plugin 'Valloric/YouCompleteMe'
-  "Plugin 'scrooloose/nerdcommenter'
-  "Plugin 'tpope/vim-fugitive'
-  "Plugin 'tpope/vim-unimpaired'
-  "Plugin 'tpope/vim-repeat'
-  "Plugin 'ryanoasis/vim-devicons'
-  "Plugin 'jiangmiao/auto-pairs'
-  "Plugin 'tommcdo/vim-exchange'
-  "Plugin 'tpope/vim-rails'
-  "Plugin 'altercation/vim-colors-solarized'
-  "Plugin 'chrisbra/colorizer'
-"call vundle#end()            " required
-"filetype plugin indent on    " required
 "}}}
 "Global settings"{{{
   "Gets rid of auto commenting
